@@ -1,4 +1,4 @@
-# RDKit_Notebook （Recommend run on Colab or jupyter notebook installed rdkit）
+# RDKit_Notebook （Recommend run on Colab or jupyter with rdkit）
 
 Notebooks of RDKit， including RDKit Cookbook，The RDKit Book，and SMARTS examples.
 
