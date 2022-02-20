@@ -1,6 +1,6 @@
-# RDKit_Notebook
+# RDKit_Notebook （Recommend run on Colab or jupyter notebook installed rdkit）
 
-Notebooks of RDKit， including RDKit Cookbook，The RDKit Book，and SMARTS examples.（Can run on Colab）
+Notebooks of RDKit， including RDKit Cookbook，The RDKit Book，and SMARTS examples.
 
 在学习RDKit，SMLIES，SMARTS的时候，整理相关的资料。
 
