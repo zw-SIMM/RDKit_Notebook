@@ -1,7 +1,7 @@
 # RDKit_Notebook （Recommend run on Colab or jupyter with rdkit）
 
 
-在学习RDKit，SMLIES，SMARTS时整理相关的资料， including RDKit Cookbook，The RDKit Book，and SMARTS examples.
+在学习RDKit，SMLIES，SMARTS时整理资料， including RDKit Cookbook，The RDKit Book，and SMARTS examples.
 
 ## 2022/2/21, Upload the RDKit Cookbook.ipynb， 
 
