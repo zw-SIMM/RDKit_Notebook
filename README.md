@@ -3,7 +3,9 @@
 
 在学习RDKit，SMLIES，SMARTS时整理的资料， including RDKit Cookbook，The RDKit Book，and SMARTS examples.
 
-### 2022/2/19, 日光公司的SMILES，SMARTS，SMIRTS的官方文档， [Daylight Theory Manual](https://www.daylight.com/dayhtml/doc/theory/index.html)
+### 2022/2/19, Read Daylight Theory Manual
+
+```日光公司的SMILES，SMARTS，SMIRTS的官方文档```， Documentations on [Daylight Theory Manual](https://www.daylight.com/dayhtml/doc/theory/index.html)
 
 ### 2022/2/20, Upload RDKit Cookbook.ipynb， 
 
