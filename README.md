@@ -15,5 +15,7 @@
 
 ```SMARTS-tutorial.ipynb``` collecting  codes on [CSDN：分子结构的子结构查询：SMARTS语言](https://blog.csdn.net/wufeil7/article/details/113056171)
 
-### 2022/2/22, 发现有RDKit中文版教程的。
+### 2022/2/22, 发现有RDKit中文版教程的,有部分存在问题，可以作为参考。
 ```RDKit 中文教程 2020.09版```http://rdkit.chenzhaoqiang.com/basicManual.html
+
+```The RDKit Book 2021.09版``` https://rdkit.org/docs/RDKit_Book.html#smarts-support-and-extensions
