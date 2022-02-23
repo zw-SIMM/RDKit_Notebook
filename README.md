@@ -18,4 +18,4 @@
 ### 2022/2/22, 发现有RDKit中文版教程的,有部分存在问题，可以作为参考。
 ```RDKit 中文教程 2020.09版```http://rdkit.chenzhaoqiang.com/basicManual.html
 
-```The RDKit Book 2021.09版``` https://rdkit.org/docs/RDKit_Book.html#smarts-support-and-extensions
+```The RDKit Book 2021.09 documentation``` https://rdkit.org/docs/RDKit_Book.html#smarts-support-and-extensions
